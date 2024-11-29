@@ -1,0 +1,10 @@
+.b_radius_15{
+    border-radius:15px;
+}
+.section-box{
+    min-height:200px;
+    background-color:#ff6600;
+    max-width:100%;
+    /*border-radius:91% 19% 39% 36% / 31% 75% 63% 41% ;*/
+    border-radius:25px;
+}
